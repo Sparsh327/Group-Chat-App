@@ -4,7 +4,7 @@
   <uses-permission android:name="android.permission.INTERNET"/>
 
    <application
-        android:label="group_chat_app_intern"
+        android:label="Group Chat App"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
