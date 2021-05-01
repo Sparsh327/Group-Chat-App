@@ -73,8 +73,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                   ),
                 ),
-                CustomList(Icons.rate_review_outlined, "About Us",
-                    () => {Navigator.pop(context)}),
                 CustomList(
                     Icons.logout,
                     "LogOut",
